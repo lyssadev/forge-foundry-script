@@ -4,7 +4,7 @@
 
 ## Credits to: Beesto & Karinaa
 
-[![Discord](https://img.shields.io/discord/your-discord-server-id.svg?label=Discord&logo=discord&colorB=7289DA)](https://discord.gg/fBGKynHEH4)
+[![Discord](https://img.shields.io/discord/1303556732865478756.svg?label=Discord&logo=discord&colorB=7289DA)](https://discord.gg/fBGKynHEH4)
 
 ## How to use
 
